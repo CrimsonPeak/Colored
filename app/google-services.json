@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "87272186878",
+    "firebase_url": "https://colors-697da.firebaseio.com",
+    "project_id": "colors-697da",
+    "storage_bucket": "colors-697da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87272186878:android:89e14c229d8edd5a",
+        "android_client_info": {
+          "package_name": "tronya.reaction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87272186878-tdr4bhf2d82aobmom07gvbvjkh8so2ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGSNIhxdwhjORCEIAzANB-G4yZfxgS_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
